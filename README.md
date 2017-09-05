@@ -1,2 +1,3 @@
 # hello-world
-This repository is my first one on GitHub and should introduce myself to the usage of GitHub
+
+Hy I am new to programming but eager to learn some stuff about data science.
